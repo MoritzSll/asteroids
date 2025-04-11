@@ -1,0 +1,1 @@
+just a quick guided project to understand concepts of oop 
