@@ -1,1 +1,3 @@
-just a quick guided project to understand concepts of oop 
+# Asteroids
+
+Just a quick project to grasp some concepts of oop, using pygame.
